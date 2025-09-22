@@ -1,0 +1,35 @@
+:root{
+  --bg1: #071426;
+  --bg2: #0f2740;
+  --accent: #ffb545;
+  --accent2: #ff595e;
+  --text: #ffffff;
+  --muted: rgba(255,255,255,0.85);
+}
+*{box-sizing:border-box}
+html,body{height:100%;margin:0;font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,"Helvetica Neue",Arial}
+body{
+  background: radial-gradient(1200px 500px at 50% 10%, rgba(255,181,69,0.06), transparent 10%),
+              linear-gradient(180deg,var(--bg1),var(--bg2));
+  color:var(--text);
+  -webkit-font-smoothing:antialiased;
+  -moz-osx-font-smoothing:grayscale;
+}
+.hero{min-height:100vh;display:flex;align-items:center;justify-content:center;padding:2rem;text-align:center;position:relative;overflow:hidden}
+.hero-inner{max-width:980px;padding:2rem 1rem}
+.title{font-weight:800;font-size:clamp(28px,6.5vw,64px);margin:0;text-transform:uppercase;letter-spacing:1px;text-shadow:0 6px 18px rgba(0,0,0,0.6);line-height:1.02}
+.subtitle{margin:0.6rem 0 1.4rem;color:var(--muted);font-weight:600}
+.actions{display:flex;gap:1rem;justify-content:center;flex-wrap:wrap}
+.btn{display:inline-block;padding:0.85rem 1.4rem;border-radius:12px;font-weight:700;text-decoration:none;border:0;cursor:pointer}
+.btn.enter{background:linear-gradient(90deg,var(--accent),var(--accent2));color:#111;border-radius:14px;box-shadow:0 6px 18px rgba(255,181,69,0.14)}
+.btn.ghost{background:transparent;border:2px solid rgba(255,255,255,0.12);color:var(--text);padding:0.7rem 1rem;border-radius:10px}
+/* small stadium light effect */
+.hero::before{content:'';position:absolute;left:0;top:0;width:100%;height:40%;background:radial-gradient(circle at 50% 0%, rgba(255,255,255,0.03), transparent 20%);pointer-events:none}
+/* confetti canvas */
+#confetti{position:fixed;left:0;top:0;width:100%;height:100%;pointer-events:none;z-index:60}
+@media (max-width:600px){
+  .title{font-size:clamp(22px,10vw,40px)}
+  .btn{padding:0.6rem 1rem}
+}
+/* simple footer area (optional) */
+footer{position:fixed;right:12px;bottom:12px;color:rgba(255,255,255,0.6);font-size:12px}

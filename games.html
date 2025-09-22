@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Games — Mavy's Sportspalooza</title>
+  <link rel="stylesheet" href="style.css" />
+  <style>
+    .games{max-width:900px;margin:40px auto;padding:1rem;text-align:center}
+    .games-list{display:flex;flex-wrap:wrap;gap:12px;justify-content:center;list-style:none;padding:0;margin:0}
+    .games-list a{display:block;padding:16px 18px;border-radius:12px;background:rgba(255,255,255,0.03);text-decoration:none;color:inherit;font-weight:700;min-width:160px}
+    header{display:flex;gap:12px;align-items:center;padding:12px;position:sticky;top:0;background:linear-gradient(180deg, rgba(7,20,38,0.8), rgba(7,20,38,0.6));backdrop-filter: blur(6px);z-index:10}
+    header a{color:var(--muted);text-decoration:none;font-weight:700}
+    .section-title{font-size:22px;margin-bottom:12px}
+    /* reaction tester element */
+    .reaction{margin-top:20px}
+    .rt-target{width:240px;height:100px;line-height:100px;border-radius:12px;margin:10px auto;background:#222;color:var(--muted);font-weight:800}
+  </style>
+</head>
+<body>
+  <header><a href="index.html">← Back to the Mavy Dome</a></header>
+  <main class="games">
+    <h2 class="section-title">Games & Toys</h2>
+    <ul class="games-list">
+      <li><a href="#reaction">Reaction Tester</a></li>
+      <li><a href="#">Name Generator</a></li>
+      <li><a href="#">Scoreboard Maker</a></li>
+      <li><a href="#">Soundboard</a></li>
+      <li><a href="#">Confetti Surprise</a></li>
+    </ul>
+
+    <section id="reaction" class="reaction" aria-labelledby="reaction-title">
+      <h3 id="reaction-title">Reaction Tester</h3>
+      <p>Click <strong>Start</strong>, wait for the box to turn green, then click it as fast as you can.</p>
+      <button id="rt-start" class="btn">Start</button>
+      <div id="rt-target" class="rt-target">Wait...</div>
+      <p id="rt-result" aria-live="polite"></p>
+    </section>
+  </main>
+
+  <script>
+    // Small reaction tester
+    (function(){
+      const startBtn = document.getElementById('rt-start');
+      const target = document.getElementById('rt-target');
+      const result = document.getElementById('rt-result');
+      let timeout, startTime;
+
+      function reset(){
+        target.style.background = '#222';
+        target.textContent = 'Wait...';
+        result.textContent = '';
+        startBtn.disabled = false;
+      }
+
+      startBtn.addEventListener('click', ()=>{
+        startBtn.disabled = true;
+        target.textContent = 'Get ready...';
+        // random wait between 1 and 3.5s
+        timeout = setTimeout(()=>{
+          startTime = performance.now();
+          target.style.background = '#20b04f';
+          target.textContent = 'CLICK!';
+        }, Math.random()*2500 + 1000);
+      });
+
+      target.addEventListener('click', ()=>{
+        if(!startTime){
+          // clicked too early
+          clearTimeout(timeout);
+          result.textContent = 'Too soon! Try again.';
+          startBtn.disabled = false;
+          return;
+        }
+        const delta = performance.now() - startTime;
+        result.textContent = 'Reaction: ' + Math.round(delta) + ' ms';
+        startTime = null;
+        startBtn.disabled = false;
+        setTimeout(reset, 1200);
+      });
+    })();
+  </script>
+</body>
+</html>
