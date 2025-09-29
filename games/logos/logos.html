@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>NFL Logo Match-Up — Mavy's Sportspalooza</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+    <a href='../../index.html' class="btn back-btn">Home</a>
+  <div class="app">
+    <header class="hero">
+      <img src="assets/banner.png" alt="banner" class="banner" onerror="this.style.display='none'">
+      <h1 class="title">NFL Logo Match-Up</h1>
+      <p class="subtitle">Pick the logo that matches the team name — 10 questions!</p>
+    </header>
+
+    <section class="controls">
+      <label>Player name: <input id="playerName" placeholder="Ante" maxlength="20"></label>
+      <button id="startBtn" class="btn">Start Round</button>
+      <button id="viewLeaders" class="btn alt">Leaderboard</button>
+    </section>
+
+    <main id="gameArea" class="hidden">
+      <div class="progress">Question <span id="qNum">0</span>/10</div>
+
+      <div class="question-card">
+        <div id="teamName" class="team-name">Team Name</div>
+        <div id="choices" class="choices-grid"></div>
+      </div>
+
+      <div class="nav">
+        <button id="nextBtn" class="btn" disabled>Next</button>
+        <button id="quitBtn" class="btn alt">Quit</button>
+      </div>
+    </main>
+
+    <section id="resultArea" class="hidden card">
+      <h2>Round Results</h2>
+      <p id="resultText"></p>
+      <div class="result-actions">
+        <button id="saveBtn" class="btn alt">Save to Leaderboard</button>
+        <button id="againBtn" class="btn">Play Again</button>
+      </div>
+    </section>
+
+    <section id="leaderboard" class="hidden card">
+      <h2>Leaderboard</h2>
+      <ol id="leaders"></ol>
+      <div class="leader-actions">
+        <button id="clearBtn" class="btn alt">Clear</button>
+        <button id="closeBtn" class="btn">Close</button>
+      </div>
+    </section>
+
+  </div>
+
+  <script src="script.js" defer></script>
+</body>
+</html>

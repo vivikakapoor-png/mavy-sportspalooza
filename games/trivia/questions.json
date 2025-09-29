@@ -1,0 +1,1482 @@
+[
+  {
+    "category": "Seahawks",
+    "question": "What city do the Seahawks play in?",
+    "choices": [
+      "Tacoma",
+      "Seattle",
+      "Portland",
+      "Spokane"
+    ],
+    "answer": "Seattle"
+  },
+  {
+    "category": "Seahawks",
+    "question": "What color is one of the Seahawks' main colors?",
+    "choices": [
+      "Yellow",
+      "Neon green",
+      "Pink",
+      "Purple"
+    ],
+    "answer": "Neon green"
+  },
+  {
+    "category": "Football",
+    "question": "What is the name of the Seahawks mascot?",
+    "choices": ["Blitz", "Boomer", "Spike", "Talon"],
+    "answer": "Blitz"
+  },
+  {
+    "category": "Seahawks",
+    "question": "What is the Seahawks' mascot name?",
+    "choices": [
+      "Blitz",
+      "Storm",
+      "Spike",
+      "Maverick"
+    ],
+    "answer": "Blitz"
+  },
+  {
+    "category": "Seahawks",
+    "question": "What sport do the Seahawks play?",
+    "choices": [
+      "Soccer",
+      "Baseball",
+      "Basketball",
+      "Football"
+    ],
+    "answer": "Football"
+  },
+  {
+    "category": "Seahawks",
+    "question": "How many players from one team are on the field in football?",
+    "choices": [
+      "7",
+      "9",
+      "11",
+      "5"
+    ],
+    "answer": "11"
+  },
+  {
+    "category": "Seahawks",
+    "question": "What is the name of the Seahawks' stadium?",
+    "choices": [
+      "Safeco Field",
+      "Key Arena",
+      "Lumen Field",
+      "CenturyLink Field"
+    ],
+    "answer": "Lumen Field"
+  },
+  {
+    "category": "Seahawks",
+    "question": "Fans of the Seahawks are often called the what?",
+    "choices": [
+      "Green Crew",
+      "10s",
+      "The Pack",
+      "12s"
+    ],
+    "answer": "12s"
+  },
+  {
+    "category": "Seahawks",
+    "question": "Which of these is a common football scoring play?",
+    "choices": [
+      "Home run",
+      "Strikeout",
+      "Touchdown",
+      "Penalty kick"
+    ],
+    "answer": "Touchdown"
+  },
+  {
+    "category": "Seahawks",
+    "question": "What piece of equipment do players wear for head safety?",
+    "choices": [
+      "Helmet",
+      "Visor",
+      "Bandana",
+      "Cap"
+    ],
+    "answer": "Helmet"
+  },
+  {
+    "category": "Seahawks",
+    "question": "Which color is NOT a Seahawks color?",
+    "choices": [
+      "Green",
+      "Gray",
+      "Navy",
+      "Red"
+    ],
+    "answer": "Red"
+  },
+  {
+    "category": "Seahawks",
+    "question": "Which position usually throws passes?",
+    "choices": [
+      "Pitcher",
+      "Catcher",
+      "Goalkeeper",
+      "Quarterback"
+    ],
+    "answer": "Quarterback"
+  },
+  {
+    "category": "Seahawks",
+    "question": "How many points is a touchdown worth?",
+    "choices": [
+      "1",
+      "2",
+      "6",
+      "3"
+    ],
+    "answer": "6"
+  },
+  {
+    "category": "Seahawks",
+    "question": "How many quarters are in a football game?",
+    "choices": [
+      "3",
+      "4",
+      "2",
+      "5"
+    ],
+    "answer": "4"
+  },
+  {
+    "category": "Seahawks",
+    "question": "What do fans do when a team scores?",
+    "choices": [
+      "Cheer",
+      "Clap slowly",
+      "Yawn",
+      "Leave"
+    ],
+    "answer": "Cheer"
+  },
+  {
+    "category": "Seahawks",
+    "question": "What do players try to do to the other team's ball holder?",
+    "choices": [
+      "Tackle",
+      "Score a basket",
+      "Dribble past",
+      "Hit a home run"
+    ],
+    "answer": "Tackle"
+  },
+  {
+    "category": "Seahawks",
+    "question": "What do you call when defense catches a pass?",
+    "choices": [
+      "Goal",
+      "Foul",
+      "Interception",
+      "Strike"
+    ],
+    "answer": "Interception"
+  },
+  {
+    "category": "Seahawks",
+    "question": "What color flag do referees throw for penalties?",
+    "choices": [
+      "Red",
+      "Green",
+      "Yellow",
+      "Blue"
+    ],
+    "answer": "Yellow"
+  },
+  {
+    "category": "Seahawks",
+    "question": "Where do teams try to get the ball to score a touchdown?",
+    "choices": [
+      "Net",
+      "Home plate",
+      "Goal box",
+      "End zone"
+    ],
+    "answer": "End zone"
+  },
+  {
+    "category": "Seahawks",
+    "question": "What do you call getting the ball into the opponent's end zone?",
+    "choices": [
+      "Goal",
+      "Try",
+      "Home run",
+      "Touchdown"
+    ],
+    "answer": "Touchdown"
+  },
+  {
+    "category": "Seahawks",
+    "question": "Which side tries to stop the other from scoring?",
+    "choices": [
+      "Defense",
+      "Fans",
+      "Coaches",
+      "Offense"
+    ],
+    "answer": "Defense"
+  },
+  {
+    "category": "Seahawks",
+    "question": "What yardage is needed for a new set of downs?",
+    "choices": [
+      "15 yards",
+      "5 yards",
+      "10 yards",
+      "20 yards"
+    ],
+    "answer": "10 yards"
+  },
+  {
+    "category": "Seahawks",
+    "question": "What is a field goal worth?",
+    "choices": [
+      "1 point",
+      "2 points",
+      "6 points",
+      "3 points"
+    ],
+    "answer": "3 points"
+  },
+  {
+    "category": "Seahawks",
+    "question": "Which gear do players wear on their feet?",
+    "choices": [
+      "Cleats",
+      "Skates",
+      "Flip flops",
+      "Sneakers"
+    ],
+    "answer": "Cleats"
+  },
+  {
+    "category": "Seahawks",
+    "question": "Which conference are the Seahawks in?",
+    "choices": [
+      "NBA",
+      "NFC",
+      "MLS",
+      "AFC"
+    ],
+    "answer": "NFC"
+  },
+  {
+    "category": "Seahawks",
+    "question": "Which is a play where the ball is moved by running?",
+    "choices": [
+      "Rush",
+      "Spike",
+      "Serve",
+      "Pitch"
+    ],
+    "answer": "Rush"
+  },
+  {
+    "category": "Seahawks",
+    "question": "What do fans sometimes wear that shows team pride?",
+    "choices": [
+      "Tuxedos",
+      "Dresses",
+      "Suits",
+      "Jerseys"
+    ],
+    "answer": "Jerseys"
+  },
+  {
+    "category": "Seahawks",
+    "question": "What do players try to avoid getting called for?",
+    "choices": [
+      "Prize",
+      "Token",
+      "Award",
+      "Penalty"
+    ],
+    "answer": "Penalty"
+  },
+  {
+    "category": "Seahawks",
+    "question": "What part of the field has goalposts?",
+    "choices": [
+      "End zone",
+      "Penalty box",
+      "Basket area",
+      "Home plate"
+    ],
+    "answer": "End zone"
+  },
+  {
+    "category": "Seahawks",
+    "question": "What is an extra point attempt after touchdown called?",
+    "choices": [
+      "Free throw",
+      "Try/Point after touchdown",
+      "Goal kick",
+      "Kickout"
+    ],
+    "answer": "Try/Point after touchdown"
+  },
+  {
+    "category": "Seahawks",
+    "question": "What is it called when time runs out and game ends?",
+    "choices": [
+      "Halftime",
+      "Intermission",
+      "Final whistle",
+      "Timeout"
+    ],
+    "answer": "Final whistle"
+  },
+  {
+    "category": "Seahawks",
+    "question": "Which number is famous for Seahawks fans?",
+    "choices": [
+      "23",
+      "99",
+      "7",
+      "12"
+    ],
+    "answer": "12"
+  },
+  {
+    "category": "Seahawks",
+    "question": "What does 'snap' refer to in football?",
+    "choices": [
+      "The play start by center passing ball to QB",
+      "A timeout",
+      "A cheer",
+      "A coach's call"
+    ],
+    "answer": "The play start by center passing ball to QB"
+  },
+  {
+    "category": "Seahawks",
+    "question": "What is the place players score by kicking between posts?",
+    "choices": [
+      "Home run",
+      "Touchdown",
+      "Field goal",
+      "Goal"
+    ],
+    "answer": "Field goal"
+  },
+  {
+    "category": "Seahawks",
+    "question": "Which role defends against passes and tackles receivers?",
+    "choices": [
+      "Referee",
+      "Catcher",
+      "Pitcher",
+      "Cornerback"
+    ],
+    "answer": "Cornerback"
+  },
+  {
+    "category": "Seahawks",
+    "question": "What do players wear on their shoulders for protection?",
+    "choices": [
+      "Shoulder pads",
+      "Sneakers",
+      "Visor",
+      "Gloves"
+    ],
+    "answer": "Shoulder pads"
+  },
+  {
+    "category": "Seahawks",
+    "question": "What do coaches often use to plan plays?",
+    "choices": [
+      "Playbook",
+      "Net",
+      "Bat",
+      "Whistle"
+    ],
+    "answer": "Playbook"
+  },
+  {
+    "category": "Seahawks",
+    "question": "Which term means to run quickly with the ball?",
+    "choices": [
+      "Dribble",
+      "Sprint",
+      "Serve",
+      "Pitch"
+    ],
+    "answer": "Sprint"
+  },
+  {
+    "category": "Seahawks",
+    "question": "Who is usually the team leader on the field?",
+    "choices": [
+      "Mascot",
+      "Referee",
+      "Captain",
+      "Fan"
+    ],
+    "answer": "Captain"
+  },
+  {
+    "category": "Seahawks",
+    "question": "What kind of ball is used in football?",
+    "choices": [
+      "Round",
+      "Square",
+      "Oval-shaped",
+      "Triangular"
+    ],
+    "answer": "Oval-shaped"
+  },
+  {
+    "category": "Seahawks",
+    "question": "Which is a common scoring celebration?",
+    "choices": [
+      "Wave",
+      "Handshake",
+      "High-five",
+      "Bow"
+    ],
+    "answer": "High-five"
+  },
+  {
+    "category": "Seahawks",
+    "question": "What part of the stadium holds fans?",
+    "choices": [
+      "Bench",
+      "Stands",
+      "Pitcher's mound",
+      "Locker room"
+    ],
+    "answer": "Stands"
+  },
+  {
+    "category": "Seahawks",
+    "question": "Which is NOT part of football equipment?",
+    "choices": [
+      "Cleats",
+      "Helmet",
+      "Shoulder pads",
+      "Bat"
+    ],
+    "answer": "Bat"
+  },
+  {
+    "category": "Mariners",
+    "question": "What city do the Mariners play in?",
+    "choices": [
+      "Olympia",
+      "Portland",
+      "Tacoma",
+      "Seattle"
+    ],
+    "answer": "Seattle"
+  },
+  {
+    "category": "Mariners",
+    "question": "What sport do the Mariners play?",
+    "choices": [
+      "Baseball",
+      "Football",
+      "Basketball",
+      "Soccer"
+    ],
+    "answer": "Baseball"
+  },
+  {
+    "category": "Mariners",
+    "question": "What color is common in the Mariners' uniform?",
+    "choices": [
+      "Navy",
+      "Pink",
+      "Yellow",
+      "Purple"
+    ],
+    "answer": "Navy"
+  },
+  {
+    "category": "Mariners",
+    "question": "What is the Mariners' home ballpark called?",
+    "choices": [
+      "CenturyLink Field",
+      "Safeco Field",
+      "Lumen Field",
+      "T-Mobile Park"
+    ],
+    "answer": "T-Mobile Park"
+  },
+  {
+    "category": "Mariners",
+    "question": "Which position pitches the ball to the batter?",
+    "choices": [
+      "Catcher",
+      "Pitcher",
+      "Quarterback",
+      "Shortstop"
+    ],
+    "answer": "Pitcher"
+  },
+  {
+    "category": "Mariners",
+    "question": "How many players are on the field for one baseball team?",
+    "choices": [
+      "11",
+      "5",
+      "7",
+      "9"
+    ],
+    "answer": "9"
+  },
+  {
+    "category": "Mariners",
+    "question": "What is it called when a batter hits the ball out of the park?",
+    "choices": [
+      "Touchdown",
+      "Goal",
+      "Home run",
+      "Strike"
+    ],
+    "answer": "Home run"
+  },
+  {
+    "category": "Mariners",
+    "question": "Which surface is the infield part of the field?",
+    "choices": [
+      "Ice",
+      "Dirt",
+      "Concrete",
+      "Grass"
+    ],
+    "answer": "Dirt"
+  },
+  {
+    "category": "Mariners",
+    "question": "Which glove do baseball players wear?",
+    "choices": [
+      "Pad",
+      "Cleats",
+      "Mitt",
+      "Helmet"
+    ],
+    "answer": "Mitt"
+  },
+  {
+    "category": "Mariners",
+    "question": "What is the area called where pitchers throw from?",
+    "choices": [
+      "Pitcher's mound",
+      "End zone",
+      "Basket",
+      "Base"
+    ],
+    "answer": "Pitcher's mound"
+  },
+  {
+    "category": "Mariners",
+    "question": "What do batters try to avoid getting?",
+    "choices": [
+      "Touchdown",
+      "Goal",
+      "Foul",
+      "Strikeout"
+    ],
+    "answer": "Strikeout"
+  },
+  {
+    "category": "Mariners",
+    "question": "What color is the baseball?",
+    "choices": [
+      "Green",
+      "Blue",
+      "White",
+      "Black"
+    ],
+    "answer": "White"
+  },
+  {
+    "category": "Mariners",
+    "question": "How many outs before the teams switch offense/defense?",
+    "choices": [
+      "1",
+      "4",
+      "3",
+      "2"
+    ],
+    "answer": "3"
+  },
+  {
+    "category": "Mariners",
+    "question": "What is the first base a runner goes to?",
+    "choices": [
+      "Home plate",
+      "Second base",
+      "First base",
+      "Third base"
+    ],
+    "answer": "First base"
+  },
+  {
+    "category": "Mariners",
+    "question": "Who catches pitches the pitcher throws?",
+    "choices": [
+      "Catcher",
+      "Goalkeeper",
+      "Referee",
+      "Quarterback"
+    ],
+    "answer": "Catcher"
+  },
+  {
+    "category": "Mariners",
+    "question": "What do players wear on their heads?",
+    "choices": [
+      "Band",
+      "Cap with visor",
+      "Batting helmet",
+      "Hard hat"
+    ],
+    "answer": "Batting helmet"
+  },
+  {
+    "category": "Mariners",
+    "question": "What is thrown to signal an out on the base?",
+    "choices": [
+      "Tag",
+      "Tackle",
+      "Throw-in",
+      "Pitch"
+    ],
+    "answer": "Tag"
+  },
+  {
+    "category": "Mariners",
+    "question": "How many bases are on the diamond?",
+    "choices": [
+      "5",
+      "4",
+      "3",
+      "2"
+    ],
+    "answer": "4"
+  },
+  {
+    "category": "Mariners",
+    "question": "What is the wooden or metal stick batters use?",
+    "choices": [
+      "Paddle",
+      "Stick",
+      "Bat",
+      "Racket"
+    ],
+    "answer": "Bat"
+  },
+  {
+    "category": "Mariners",
+    "question": "What counts as a hit but the ball stays in play?",
+    "choices": [
+      "Strike",
+      "Home run",
+      "Foul",
+      "Single"
+    ],
+    "answer": "Single"
+  },
+  {
+    "category": "Mariners",
+    "question": "Which part of baseball season decides champion?",
+    "choices": [
+      "Playoffs",
+      "Spring training",
+      "Warm ups",
+      "Regular practice"
+    ],
+    "answer": "Playoffs"
+  },
+  {
+    "category": "Mariners",
+    "question": "What does RBI stand for?",
+    "choices": [
+      "Run Base In",
+      "Runs Batted In",
+      "Really Big Inning",
+      "Right Base Inside"
+    ],
+    "answer": "Runs Batted In"
+  },
+  {
+    "category": "Mariners",
+    "question": "Which item is used to keep score on scoreboard?",
+    "choices": [
+      "Runs",
+      "Touches",
+      "Points",
+      "Goals"
+    ],
+    "answer": "Runs"
+  },
+  {
+    "category": "Mariners",
+    "question": "What is it called when the ball is caught before it hits the ground?",
+    "choices": [
+      "Fly out",
+      "Foul",
+      "Strike",
+      "Grounder"
+    ],
+    "answer": "Fly out"
+  },
+  {
+    "category": "Mariners",
+    "question": "What do batters wear to protect their hands?",
+    "choices": [
+      "Batting gloves",
+      "Football pads",
+      "Helmet",
+      "Knee pads"
+    ],
+    "answer": "Batting gloves"
+  },
+  {
+    "category": "Mariners",
+    "question": "Which tool measures the speed of a pitch?",
+    "choices": [
+      "Radar gun",
+      "Stopwatch",
+      "Ruler",
+      "Scale"
+    ],
+    "answer": "Radar gun"
+  },
+  {
+    "category": "Mariners",
+    "question": "Which color are many baseball gloves?",
+    "choices": [
+      "Brown",
+      "Pink",
+      "Green",
+      "Blue"
+    ],
+    "answer": "Brown"
+  },
+  {
+    "category": "Mariners",
+    "question": "What is the line between fair and foul balls called?",
+    "choices": [
+      "Sideline",
+      "Foul line",
+      "Goal line",
+      "End line"
+    ],
+    "answer": "Foul line"
+  },
+  {
+    "category": "Mariners",
+    "question": "Which base is also where the batter starts and finishes?",
+    "choices": [
+      "First base",
+      "Third base",
+      "Home plate",
+      "Second base"
+    ],
+    "answer": "Home plate"
+  },
+  {
+    "category": "Mariners",
+    "question": "What is it called when a player hits safely but another runner scores?",
+    "choices": [
+      "Out",
+      "Foul",
+      "RBI",
+      "Strike"
+    ],
+    "answer": "RBI"
+  },
+  {
+    "category": "Mariners",
+    "question": "What do players wear on their feet?",
+    "choices": [
+      "Skates",
+      "Flats",
+      "Sandals",
+      "Cleats"
+    ],
+    "answer": "Cleats"
+  },
+  {
+    "category": "Mariners",
+    "question": "What is a double play?",
+    "choices": [
+      "Two balls thrown",
+      "Two home runs",
+      "Two outs on one play",
+      "Two runs scored"
+    ],
+    "answer": "Two outs on one play"
+  },
+  {
+    "category": "Mariners",
+    "question": "Which pitch is very fast?",
+    "choices": [
+      "Curveball",
+      "Knuckleball",
+      "Fastball",
+      "Slowball"
+    ],
+    "answer": "Fastball"
+  },
+  {
+    "category": "Mariners",
+    "question": "What do players sit in when not on field?",
+    "choices": [
+      "Dugout",
+      "Locker room",
+      "Pitcher's mound",
+      "Stands"
+    ],
+    "answer": "Dugout"
+  },
+  {
+    "category": "Mariners",
+    "question": "What is the name for a baseball team's defensive player near second base?",
+    "choices": [
+      "Catcher",
+      "Second baseman",
+      "Quarterback",
+      "Shortstop"
+    ],
+    "answer": "Second baseman"
+  },
+  {
+    "category": "Mariners",
+    "question": "What is the term for a batter taking first base after four balls?",
+    "choices": [
+      "Home run",
+      "Foul",
+      "Walk",
+      "Strike"
+    ],
+    "answer": "Walk"
+  },
+  {
+    "category": "Mariners",
+    "question": "What is the protective fence behind home plate called?",
+    "choices": [
+      "Goal net",
+      "Backstop",
+      "Barrier",
+      "Fence"
+    ],
+    "answer": "Backstop"
+  },
+  {
+    "category": "Mariners",
+    "question": "What is the batter's area called?",
+    "choices": [
+      "Home box",
+      "Batter's box",
+      "Pitcher's box",
+      "Catcher's box"
+    ],
+    "answer": "Batter's box"
+  },
+  {
+    "category": "Mariners",
+    "question": "Which part of the field is grass?",
+    "choices": [
+      "Home plate",
+      "Pitcher's mound",
+      "Outfield",
+      "Dugout"
+    ],
+    "answer": "Outfield"
+  },
+  {
+    "category": "Mariners",
+    "question": "What counts toward a player's batting average?",
+    "choices": [
+      "Errors",
+      "Fouls",
+      "Hits",
+      "Runs allowed"
+    ],
+    "answer": "Hits"
+  },
+  {
+    "category": "Mariners",
+    "question": "Which base comes after first base?",
+    "choices": [
+      "Third base",
+      "Home plate",
+      "Second base",
+      "Pitcher's mound"
+    ],
+    "answer": "Second base"
+  },
+  {
+    "category": "Mariners",
+    "question": "What do teams wear with their uniform for sun?",
+    "choices": [
+      "Helmet",
+      "Cap",
+      "Crown",
+      "Headband"
+    ],
+    "answer": "Cap"
+  },
+  {
+    "category": "Mariners",
+    "question": "What is a shutout?",
+    "choices": [
+      "When one team doesn't allow any runs",
+      "When a player is out",
+      "When game stops",
+      "When both teams score"
+    ],
+    "answer": "When one team doesn't allow any runs"
+  },
+  {
+    "category": "Mariners",
+    "question": "What is it called when a batter gets three strikes?",
+    "choices": [
+      "Strikeout",
+      "Foul",
+      "Home run",
+      "Walk"
+    ],
+    "answer": "Strikeout"
+  },
+  {
+    "category": "General",
+    "question": "Which sport uses a hoop and a ball and is played indoors and outdoors?",
+    "choices": [
+      "Basketball",
+      "Golf",
+      "Rugby",
+      "Cricket"
+    ],
+    "answer": "Basketball"
+  },
+  {
+    "category": "General",
+    "question": "Which sport is played on ice with skates and a puck?",
+    "choices": [
+      "Baseball",
+      "Ice hockey",
+      "Soccer",
+      "Basketball"
+    ],
+    "answer": "Ice hockey"
+  },
+  {
+    "category": "General",
+    "question": "Which sport uses a racket and a shuttlecock?",
+    "choices": [
+      "Squash",
+      "Badminton",
+      "Tennis",
+      "Cricket"
+    ],
+    "answer": "Badminton"
+  },
+  {
+    "category": "General",
+    "question": "Which sport is known as the most popular worldwide?",
+    "choices": [
+      "Basketball",
+      "Soccer",
+      "Baseball",
+      "Tennis"
+    ],
+    "answer": "Soccer"
+  },
+  {
+    "category": "General",
+    "question": "Which sport uses a bat and ball and has innings?",
+    "choices": [
+      "Baseball",
+      "Football",
+      "Hockey",
+      "Basketball"
+    ],
+    "answer": "Baseball"
+  },
+  {
+    "category": "General",
+    "question": "How many players on a basketball team are on the court?",
+    "choices": [
+      "6",
+      "4",
+      "5",
+      "7"
+    ],
+    "answer": "5"
+  },
+  {
+    "category": "General",
+    "question": "Which sport has goals and is played with feet?",
+    "choices": [
+      "Tennis",
+      "Cricket",
+      "Basketball",
+      "Soccer"
+    ],
+    "answer": "Soccer"
+  },
+  {
+    "category": "General",
+    "question": "Which sport uses a pool and lanes?",
+    "choices": [
+      "Swimming",
+      "Diving",
+      "Rowing",
+      "Surfing"
+    ],
+    "answer": "Swimming"
+  },
+  {
+    "category": "General",
+    "question": "Which sport uses a net and is played with hands?",
+    "choices": [
+      "Curling",
+      "Fencing",
+      "Boxing",
+      "Volleyball"
+    ],
+    "answer": "Volleyball"
+  },
+  {
+    "category": "General",
+    "question": "Which sport is played on grass with a small ball and holes?",
+    "choices": [
+      "Basketball",
+      "Baseball",
+      "Golf",
+      "Rugby"
+    ],
+    "answer": "Golf"
+  },
+  {
+    "category": "General",
+    "question": "Which sport uses an oval ball and is popular in the USA?",
+    "choices": [
+      "Tennis",
+      "Cricket",
+      "Football",
+      "Golf"
+    ],
+    "answer": "Football"
+  },
+  {
+    "category": "General",
+    "question": "Which sport involves hitting a ball over a net with a racket?",
+    "choices": [
+      "Tennis",
+      "Baseball",
+      "Basketball",
+      "Hockey"
+    ],
+    "answer": "Tennis"
+  },
+  {
+    "category": "General",
+    "question": "What is the term for when a player scores in soccer?",
+    "choices": [
+      "Touchdown",
+      "Home run",
+      "Goal",
+      "Try"
+    ],
+    "answer": "Goal"
+  },
+  {
+    "category": "General",
+    "question": "Which sport has a pitcher and a catcher?",
+    "choices": [
+      "Tennis",
+      "Soccer",
+      "Baseball",
+      "Basketball"
+    ],
+    "answer": "Baseball"
+  },
+  {
+    "category": "General",
+    "question": "Which sport uses a tee to start play?",
+    "choices": [
+      "Basketball",
+      "Hockey",
+      "Soccer",
+      "Golf"
+    ],
+    "answer": "Golf"
+  },
+  {
+    "category": "General",
+    "question": "Which sport has a 'three-point line'?",
+    "choices": [
+      "Tennis",
+      "Soccer",
+      "Basketball",
+      "Baseball"
+    ],
+    "answer": "Basketball"
+  },
+  {
+    "category": "General",
+    "question": "Which sport includes 'dribbling' the ball?",
+    "choices": [
+      "Tennis",
+      "Basketball",
+      "Golf",
+      "Baseball"
+    ],
+    "answer": "Basketball"
+  },
+  {
+    "category": "General",
+    "question": "Which sport uses 'strikes' and 'spares'?",
+    "choices": [
+      "Soccer",
+      "Baseball",
+      "Bowling",
+      "Basketball"
+    ],
+    "answer": "Bowling"
+  },
+  {
+    "category": "General",
+    "question": "Which sport uses a ring and is scored by judges sometimes?",
+    "choices": [
+      "Boxing",
+      "Tennis",
+      "Baseball",
+      "Soccer"
+    ],
+    "answer": "Boxing"
+  },
+  {
+    "category": "General",
+    "question": "Which sport requires players to wear skates?",
+    "choices": [
+      "Soccer",
+      "Ice hockey",
+      "Baseball",
+      "Basketball"
+    ],
+    "answer": "Ice hockey"
+  },
+  {
+    "category": "General",
+    "question": "Which sport is played indoors on mats and uses throws?",
+    "choices": [
+      "Basketball",
+      "Cricket",
+      "Wrestling",
+      "Tennis"
+    ],
+    "answer": "Wrestling"
+  },
+  {
+    "category": "General",
+    "question": "Which sport's world championship is called the World Series?",
+    "choices": [
+      "Basketball",
+      "Baseball",
+      "Soccer",
+      "Tennis"
+    ],
+    "answer": "Baseball"
+  },
+  {
+    "category": "General",
+    "question": "Which sport uses a bat and has a pitcher?",
+    "choices": [
+      "Basketball",
+      "Tennis",
+      "Hockey",
+      "Baseball"
+    ],
+    "answer": "Baseball"
+  },
+  {
+    "category": "General",
+    "question": "Which sport uses a bow and arrow?",
+    "choices": [
+      "Tennis",
+      "Baseball",
+      "Archery",
+      "Golf"
+    ],
+    "answer": "Archery"
+  },
+  {
+    "category": "General",
+    "question": "Which sport often involves a baton in relays?",
+    "choices": [
+      "Rugby",
+      "Golf",
+      "Track and field",
+      "Cricket"
+    ],
+    "answer": "Track and field"
+  },
+  {
+    "category": "General",
+    "question": "Which sport is a race using bicycles?",
+    "choices": [
+      "Rowing",
+      "Cycling",
+      "Surfing",
+      "Skiing"
+    ],
+    "answer": "Cycling"
+  },
+  {
+    "category": "General",
+    "question": "Which sport uses a pommel horse?",
+    "choices": [
+      "Gymnastics",
+      "Cricket",
+      "Swimming",
+      "Football"
+    ],
+    "answer": "Gymnastics"
+  },
+  {
+    "category": "General",
+    "question": "Which sport uses a long stick and a small ball on grass?",
+    "choices": [
+      "Basketball",
+      "Baseball",
+      "Field hockey",
+      "Tennis"
+    ],
+    "answer": "Field hockey"
+  },
+  {
+    "category": "General",
+    "question": "Which sport is played with a shuttlecock?",
+    "choices": [
+      "Volleyball",
+      "Cricket",
+      "Badminton",
+      "Tennis"
+    ],
+    "answer": "Badminton"
+  },
+  {
+    "category": "General",
+    "question": "Which sport's object is to score by shooting into a net with hands?",
+    "choices": [
+      "Basketball",
+      "Baseball",
+      "Soccer",
+      "Handball"
+    ],
+    "answer": "Handball"
+  },
+  {
+    "category": "General",
+    "question": "Which sport is commonly played with helmets and pads in the USA?",
+    "choices": [
+      "Golf",
+      "Football",
+      "Tennis",
+      "Badminton"
+    ],
+    "answer": "Football"
+  },
+  {
+    "category": "General",
+    "question": "Which sport uses 'innings' and 'strikeouts'?",
+    "choices": [
+      "Baseball",
+      "Basketball",
+      "Rugby",
+      "Soccer"
+    ],
+    "answer": "Baseball"
+  },
+  {
+    "category": "General",
+    "question": "Which sport uses a small white ball and clubs?",
+    "choices": [
+      "Cricket",
+      "Tennis",
+      "Golf",
+      "Basketball"
+    ],
+    "answer": "Golf"
+  },
+  {
+    "category": "General",
+    "question": "Which sport uses a puck on ice?",
+    "choices": [
+      "Football",
+      "Tennis",
+      "Ice hockey",
+      "Basketball"
+    ],
+    "answer": "Ice hockey"
+  },
+  {
+    "category": "General",
+    "question": "Which sport has players scoring 'tries'?",
+    "choices": [
+      "Basketball",
+      "Rugby",
+      "Baseball",
+      "Tennis"
+    ],
+    "answer": "Rugby"
+  },
+  {
+    "category": "General",
+    "question": "Which sport uses a net and a yellow ball often on grass?",
+    "choices": [
+      "Tennis",
+      "Baseball",
+      "Basketball",
+      "Soccer"
+    ],
+    "answer": "Tennis"
+  },
+  {
+    "category": "General",
+    "question": "Which sport's major tournament is Wimbledon?",
+    "choices": [
+      "Rugby",
+      "Cricket",
+      "Basketball",
+      "Tennis"
+    ],
+    "answer": "Tennis"
+  },
+  {
+    "category": "General",
+    "question": "Which sport has 'halves' instead of 'quarters' sometimes?",
+    "choices": [
+      "Baseball",
+      "Soccer",
+      "Basketball",
+      "American Football"
+    ],
+    "answer": "Soccer"
+  },
+  {
+    "category": "General",
+    "question": "Which sport famously has a 24-second shot clock?",
+    "choices": [
+      "Basketball",
+      "Baseball",
+      "Golf",
+      "Tennis"
+    ],
+    "answer": "Basketball"
+  },
+  {
+    "category": "General",
+    "question": "Which sport uses goalposts and is played on a large grass field?",
+    "choices": [
+      "Basketball",
+      "Tennis",
+      "Football",
+      "Hockey"
+    ],
+    "answer": "Football"
+  },
+  {
+    "category": "General",
+    "question": "Which sport uses a puck and skates?",
+    "choices": [
+      "Tennis",
+      "Baseball",
+      "Basketball",
+      "Ice hockey"
+    ],
+    "answer": "Ice hockey"
+  },
+  {
+    "category": "General",
+    "question": "Which sport is measured in meters for races?",
+    "choices": [
+      "Baseball",
+      "Football",
+      "Track and field",
+      "Basketball"
+    ],
+    "answer": "Track and field"
+  },
+  {
+    "category": "General",
+    "question": "Which sport has a 'serve' to start a point?",
+    "choices": [
+      "Basketball",
+      "Tennis",
+      "Football",
+      "Baseball"
+    ],
+    "answer": "Tennis"
+  },
+  {
+    "category": "General",
+    "question": "Which sport uses a mallet to hit a ball on horses?",
+    "choices": [
+      "Cricket",
+      "Tennis",
+      "Polo",
+      "Golf"
+    ],
+    "answer": "Polo"
+  },
+  {
+    "category": "General",
+    "question": "Which sport uses a 'cleat' shoe on grass?",
+    "choices": [
+      "Soccer/Football",
+      "Baseball",
+      "Tennis",
+      "Basketball"
+    ],
+    "answer": "Soccer/Football"
+  },
+  {
+    "category": "General",
+    "question": "Which sport's signature move is a slam dunk?",
+    "choices": [
+      "Soccer",
+      "Tennis",
+      "Basketball",
+      "Baseball"
+    ],
+    "answer": "Basketball"
+  },
+  {
+    "category": "General",
+    "question": "Which sport uses a 'tee' and 'fairway'?",
+    "choices": [
+      "Basketball",
+      "Golf",
+      "Soccer",
+      "Rugby"
+    ],
+    "answer": "Golf"
+  },
+  {
+    "category": "General",
+    "question": "Which sport awards a 'hat trick' for three scores in a game?",
+    "choices": [
+      "Basketball",
+      "Tennis",
+      "Baseball",
+      "Hockey"
+    ],
+    "answer": "Hockey"
+  }
+]

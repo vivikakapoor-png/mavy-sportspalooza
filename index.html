@@ -1,23 +1,39 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Mavy’s Sportspalooza Spectacular</title>
-  <link rel="stylesheet" href="style.css" />
-</head>
-<body>
-  <main class="hero" role="main" aria-labelledby="main-heading">
-    <div class="hero-inner">
-      <h1 id="main-heading" class="title">WELCOME TO MAVY’S SPORTSPALOOZA SPECTACULAR!</h1>
-      <p class="subtitle">The wildest sports showdown of all time 🏆⚽🏀🎉</p>
-      <div class="actions">
-        <a class="btn enter" href="games.html">Enter the Games</a>
-        <button id="surpriseBtn" class="btn ghost" aria-pressed="false">Surprise!</button>
-      </div>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mavy's Sportspalooza Spectacular</title>
+    <link rel="stylesheet" href="styles/main.css" />
+  </head>
+  <body>
+    <img
+      src="assets/background_final.png"
+      alt="Background Arena"
+      class="hero-image"
+    />
+    <div class="game-menu">
+      <a
+        class="game-container"
+        id="trivia-button"
+        href="/games/trivia/trivia.html"
+        ><img class="game-icon" src="assets/quiz-icon.png"
+      /></a>
+      <a class="game-container" id="dash-button" href="/games/dash/dash.html"
+        ><img class="arcade-icon" src="assets/arcade-icon.png" />
+      </a>
+      <a class="game-container" id="race-button" href="/games/race/race.html"
+        ><img class="game-icon" src="assets/running-icon.png"
+      /></a>
+      <a
+        class="game-container"
+        id="logos-button"
+        href="/games/logos/logos.html"
+      ><img class="game-icon" src="assets/helmet-icon.png"
+      /></a>
+      <a class="game-container" id="catch-button" href="/games/catch/catch.html"
+        ><img class="game-icon" src="assets/ball.png"
+      /></a>
     </div>
-  </main>
-  <canvas id="confetti" aria-hidden="true"></canvas>
-  <script src="script.js"></script>
-</body>
+  </body>
 </html>

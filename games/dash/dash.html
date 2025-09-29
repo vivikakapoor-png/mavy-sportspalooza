@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Mavy's Dodgeball Dash</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <a href='../../index.html' class="btn back-btn">Home</a>
+  <div class="page">
+    <header class="header">
+      <!-- Replace banner.png with your banner (optional) -->
+      <img src="banner.png" alt="Mavy banner" class="banner" onerror="this.style.display='none'">
+      <h1 class="title">Dodgeball Dash</h1>
+      <p class="subtitle">Move with ← → or drag. Avoid the dodgeballs!</p>
+    </header>
+
+    <section class="game-wrap">
+      <div class="hud">
+        <div class="hud-left">
+          <div class="label">Score <span id="score">0</span></div>
+          <div class="label">Lives <span id="lives">3</span></div>
+        </div>
+        <div class="hud-right">
+          <div class="label">High <span id="highscore">0</span></div>
+        </div>
+      </div>
+
+      <div class="canvas-wrap">
+        <canvas id="gameCanvas" width="980" height="540"></canvas>
+      </div>
+
+      <div class="controls">
+        <button id="startBtn" class="btn">Start</button>
+        <button id="pauseBtn" class="btn alt" disabled>Pause</button>
+        <button id="restartBtn" class="btn alt" disabled>Restart</button>
+      </div>
+
+      <div id="gameOver" class="overlay hidden">
+        <div class="overlay-card">
+          <h2>Game Over</h2>
+          <p id="finalScore">You scored 0</p>
+          <div class="overlay-actions">
+            <button id="playAgain" class="btn">Play Again</button>
+            <a id="goHome" class="btn alt" href='../../index.html'>Back Home</a>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <script src="script.js" defer></script>
+</body>
+</html>

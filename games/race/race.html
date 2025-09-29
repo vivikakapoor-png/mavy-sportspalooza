@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Mavy's Race to the Finish</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    
+  <a href='../../index.html' class="btn back-btn">Home</a>
+  <div class="page">
+    <header class="hero">
+      <img src="banner.png" alt="Mavy banner" class="banner" onerror="this.style.display='none'">
+      <h1 class="big-title">Race to the Finish</h1>
+      <p class="subtitle">Player 1: <strong>A</strong> or TAP left • Player 2: <strong>L</strong> or TAP right</p>
+    </header>
+
+    <main class="card">
+      <div class="track-wrap">
+        <div class="finish">FINISH</div>
+
+        <div class="lane" id="lane1">
+          <div class="rung">
+            <div class="runner" id="runner1" aria-hidden="true">1</div>
+          </div>
+        </div>
+
+        <div class="lane" id="lane2">
+          <div class="rung">
+            <div class="runner" id="runner2" aria-hidden="true">2</div>
+          </div>
+        </div>
+
+        <div class="status">
+          <div>Player 1: <span id="p1score">0</span></div>
+          <div>Player 2: <span id="p2score">0</span></div>
+        </div>
+      </div>
+
+      <div class="controls">
+        <button id="startBtn" class="btn">Start Race</button>
+        <button id="restartBtn" class="btn alt" disabled>Reset</button>
+      </div>
+
+      <div class="mobile-controls">
+        <button id="tapLeft" class="big-tap">TAP A (P1)</button>
+        <button id="tapRight" class="big-tap">TAP L (P2)</button>
+      </div>
+
+      <div id="result" class="result hidden" role="status" aria-live="polite"></div>
+    </main>
+
+  </div>
+
+  <script src="script.js" defer></script>
+</body>
+</html>

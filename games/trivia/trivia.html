@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Mavy's Trivia — Sportspalooza</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <a href='../../index.html' class="btn back-btn">Home</a>
+  <div class="container">
+    <header class="hero">
+      <!-- <img src="banner.png" alt="Mavy banner" class="banner"> -->
+      <h1 class="page-title">Mavy's Trivia</h1>
+      <p class="subtitle">15 questions per quiz — Seahawks, Mariners & general sports!</p>
+    </header>
+
+    <section class="controls">
+      <label for="category">Category:</label>
+      <select id="category">
+        <option value="All">All</option>
+        <option value="Seahawks">Seahawks</option>
+        <option value="Mariners">Mariners</option>
+        <option value="General">General</option>
+      </select>
+
+      <label for="name">Your name:</label>
+      <input id="playerName" placeholder="Mavy" maxlength="20">
+
+      <button id="startBtn" class="btn">Start Quiz</button>
+      <button id="viewLeaderboard" class="btn alt">Leaderboard</button>
+    </section>
+
+    <main id="quizArea" class="quiz-area hidden">
+      <div id="progress" class="progress">Question <span id="currentNum">0</span>/15</div>
+      <div id="questionCard" class="card">
+        <div id="questionText" class="question"></div>
+        <div id="choices" class="choices"></div>
+      </div>
+      <div class="nav-row">
+        <button id="nextBtn" class="btn" disabled>Next</button>
+        <button id="quitBtn" class="btn alt">Quit</button>
+      </div>
+    </main>
+
+    <section id="resultArea" class="result-area hidden">
+      <h2>Results</h2>
+      <p id="scoreText"></p>
+      <div class="result-buttons">
+        <button id="playAgain" class="btn">Play Again</button>
+        <button id="saveScore" class="btn alt">Save to Leaderboard</button>
+      </div>
+    </section>
+
+    <section id="leaderboardArea" class="leaderboard hidden">
+      <h2>Leaderboard</h2>
+      <ol id="leaders"></ol>
+      <button id="clearBoard" class="btn alt">Clear Leaderboard</button>
+      <button id="closeBoard" class="btn">Close</button>
+    </section>
+
+    <footer class="footer"></footer>
+  </div>
+
+  <script src="script.js" defer></script>
+</body>
+</html>

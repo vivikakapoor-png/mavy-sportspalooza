@@ -1,0 +1,59 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  background-color: #5DA645;
+  height: 100%;
+}
+
+.hero-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  /* border-bottom: 2px solid black; */
+}
+
+.game-menu {
+  display: flex;
+  margin-left: 5%;
+  margin-right: 5%;
+  width: 90%;
+  height: 25%;
+  position: absolute;
+  bottom: 0;
+  justify-content: space-between;
+}
+
+.game-container {
+  /* width: 15%;
+  height: 80%; */
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  background-color: blue;
+  border: 5px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#trivia-button {
+  background-color: #FFD415;
+}
+#dash-button {
+  background-color: #7C6AC8;
+}
+#race-button {
+  background-color: #0DA7FD;
+  /* background-color: red; */
+}
+.game-icon {
+  width: 90%;
+}
+.arcade-icon {
+  width: 80%;
+}
+#catch-button{
+  background-color: #FE8C1A;
+}
+#logos-button {
+  background-color: #DC596B;
+}

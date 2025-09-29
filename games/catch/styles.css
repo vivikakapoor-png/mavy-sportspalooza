@@ -1,0 +1,78 @@
+body {
+  font-family: 'Arial Rounded MT Bold', Arial, sans-serif;
+  background: linear-gradient(135deg, #003366, #00509e);
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.game-wrapper {
+  text-align: center;
+}
+
+.title {
+  font-size: 2.5rem;
+  margin-bottom: 5px;
+  text-shadow: 2px 2px #000;
+}
+
+.subtitle {
+  font-size: 1.1rem;
+  margin-bottom: 15px;
+  color: #ffcc00;
+  text-shadow: 1px 1px #000;
+}
+.back-btn {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  text-decoration: none;
+}
+a {
+    text-decoration: none;
+}
+#gameCanvas {
+  background: #ffffff;
+  border: 4px solid #222;
+  border-radius: 16px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+  display: block;
+  margin: 0 auto;
+}
+
+#scoreboard {
+  margin-top: 12px;
+  font-size: 1.2rem;
+  display: flex;
+  justify-content: space-around;
+  max-width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  background: rgba(0,0,0,0.2);
+  padding: 6px 12px;
+  border-radius: 10px;
+}
+
+.btn {
+  background: #ffcc00;
+  border: none;
+  border-radius: 12px;
+  padding: 10px 20px;
+  margin-top: 15px;
+  font-size: 1.1rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.3s, transform 0.1s;
+}
+
+.btn:hover {
+  background: #ffdd33;
+  transform: scale(1.05);
+}
+
+.hidden {
+  display: none;
+}
